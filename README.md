@@ -435,7 +435,7 @@ Running tests, development
 
 [![Build Status](https://travis-ci.org/Leonidas-from-XIV/node-xml2js.svg?branch=master)](https://travis-ci.org/Leonidas-from-XIV/node-xml2js)
 [![Coverage Status](https://coveralls.io/repos/Leonidas-from-XIV/node-xml2js/badge.svg?branch=)](https://coveralls.io/r/Leonidas-from-XIV/node-xml2js?branch=master)
-[![Dependency Status](https://david-dm.org/Leonidas-from-XIV/node-xml2js.svg)](https://david-dm.org/Leonidas-from-XIV/node-xml2js) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/Leonidas-from-XIV--node-xml2js.svg)](https://www.staging.guardrails.io)
+[![Dependency Status](https://david-dm.org/Leonidas-from-XIV/node-xml2js.svg)](https://david-dm.org/Leonidas-from-XIV/node-xml2js) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/Leonidas-from-XIV--node-xml2js.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/Leonidas-from-XIV--node-xml2js.svg)](https://www.guardrails.io)
 
 The development requirements are handled by npm, you just need to install them.
 We also have a number of unit tests, they can be run using `npm test` directly
